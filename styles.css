@@ -1,0 +1,23 @@
+body{ 
+    img{
+    
+        display: block;
+        margin: auto;
+    }
+    h1{
+        color: darkgoldenrod;
+        text-align: center;
+    }
+    h2{
+        color: darkgoldenrod;
+        text-align: center;
+    }
+    h3{
+        color: black;
+        text-align: center;
+    }
+    H4{ 
+        color: black;
+        text-align: center;
+    }
+}
